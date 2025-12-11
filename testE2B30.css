@@ -1,5 +1,9 @@
-/* testE2B30.css ファイルに追記・上書きしてください */
+/* testE2B30.css */
+
 body {
-    /* 深緑 (DarkGreen) に設定 */
-    background-color: #006400; 
+    /* 背景色を明るい緑色（lightgreen）に設定 */
+    background-color: #90ee90;
+    /* もし濃い緑が良い場合は、#008000 (green) などに変更してください */
 }
+
+/* 他に文字色やマージンなどの設定があれば、ここに追加します */
